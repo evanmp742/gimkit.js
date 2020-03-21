@@ -1,0 +1,22 @@
+{
+  "name": "gimkit.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/uws": "^10.149.0",
+    "discord": "^0.8.2",
+    "electron": "^7.1.9",
+    "node-fetch": "^2.6.0",
+    "puppeteer": "^2.0.0",
+    "puppeteer-extra": "^3.1.9",
+    "puppeteer-extra-plugin-stealth": "^2.4.9",
+    "ws": "^7.2.1",
+    "yt-search": "^1.1.2"
+  }
+}
