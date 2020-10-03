@@ -9,8 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@discordjs/uws": "^10.149.0",
-    "discord": "^0.8.2",
+    "discord.js": "^12.2.0",
     "electron": "^7.1.9",
     "node-fetch": "^2.6.0",
     "puppeteer": "^2.0.0",

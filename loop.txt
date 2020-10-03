@@ -1,0 +1,11 @@
+(START OF LOOP)
+waits for the question
+collects options for answers
+makes an embed containing the question and possible answers
+sends embed and reacts to it with 4 emojis for each options
+catches whatever reaction was clicked by the user (for now only 1 is programmed)
+clicks on that option on the gimkit.com/play website
+finds the amount of money added or subtracted
+waits for continue
+clicks continue
+(END OF LOOP)
